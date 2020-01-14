@@ -1,6 +1,3 @@
-
-    3447677537
-
 在 .vmoptions 文件中配置我们补丁放置的全路径位置。
 
     -javaagent:C:\IntelliJ IDEA 2019.3\bin\jetbrains-agent.jar
